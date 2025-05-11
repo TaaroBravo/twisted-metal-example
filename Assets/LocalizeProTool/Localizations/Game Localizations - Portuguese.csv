@@ -1,0 +1,18 @@
+Text IDs (TID)	Description
+language	Português
+menu_title	Jogo incrível
+menu_settings	Configuração 
+menu_exit	Sair
+menu_play	Jugar
+	
+dialogue_1-1	Olá
+dialogue_1-2	Como é que estás?
+dialogue_1-3	Eu sou o Cody.
+	
+dialogue_2-1	Oi
+dialogue_2-2	Publicou uma crítica?
+	
+character1_dialogue	Falar com Cody
+character2_dialogue	Falar com Tina
+	
+welcome_example_text	Ola

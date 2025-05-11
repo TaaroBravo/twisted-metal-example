@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5765ce5a93e36f841b31a4124c92119c
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 308854
+  packageName: LocalizePro
+  packageVersion: 1.2
+  assetPath: Assets/LocalizeProTool/Localizations/Game Localizations - English.csv
+  uploadId: 747674

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5a7f9ac99fd0cb14a87dccb525a1facf
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 308854
+  packageName: LocalizePro
+  packageVersion: 1.2
+  assetPath: Assets/LocalizeProTool/Localizations/Game Localizations - Spanish.csv
+  uploadId: 747674

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 73ec7e57f3558df44a157433fa48e2a8
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 308854
+  packageName: LocalizePro
+  packageVersion: 1.2
+  assetPath: Assets/LocalizeProTool/Localizations/Portugues-Localization.csv
+  uploadId: 747674

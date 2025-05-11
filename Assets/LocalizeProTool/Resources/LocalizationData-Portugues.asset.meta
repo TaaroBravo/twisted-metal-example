@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 714318dcfa5df704eb293c24d9be2b44
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 308854
+  packageName: LocalizePro
+  packageVersion: 1.2
+  assetPath: Assets/LocalizeProTool/Resources/LocalizationData-Portugues.asset
+  uploadId: 747674

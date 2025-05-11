@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4ef2923cc997562448691b11650b76e4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 308854
+  packageName: LocalizePro
+  packageVersion: 1.2
+  assetPath: Assets/LocalizeProTool/Resources/LanguagesAvailable.asset
+  uploadId: 747674

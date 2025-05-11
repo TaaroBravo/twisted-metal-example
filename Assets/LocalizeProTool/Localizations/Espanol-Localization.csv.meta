@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 63a12a8f58af46943a1f5afe8a860b6f
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 308854
+  packageName: LocalizePro
+  packageVersion: 1.2
+  assetPath: Assets/LocalizeProTool/Localizations/Espanol-Localization.csv
+  uploadId: 747674

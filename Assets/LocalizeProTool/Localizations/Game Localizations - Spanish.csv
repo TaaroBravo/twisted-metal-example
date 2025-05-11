@@ -1,0 +1,18 @@
+Text IDs (TID)	Description
+language	Español
+menu_title	Increíble Juego
+menu_settings	Ajustes
+menu_exit	Salir
+menu_play	Jugar
+	
+dialogue_1-1	¡Hola!
+dialogue_1-2	¿Cómo estás?
+dialogue_1-3	Soy Cody.
+	
+dialogue_2-1	¡Hola hola!
+dialogue_2-2	¿Ya publicaste una review?
+	
+character1_dialogue	Hablar con Cody
+character2_dialogue	Hablar con Tina
+	
+welcome_example_text	Hola

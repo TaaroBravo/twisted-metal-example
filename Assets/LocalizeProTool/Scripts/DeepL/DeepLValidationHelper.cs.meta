@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: cb533c9778364ef2a0a0319b0e75edc3
+timeCreated: 1744076336
+AssetOrigin:
+  serializedVersion: 1
+  productId: 308854
+  packageName: LocalizePro
+  packageVersion: 1.2
+  assetPath: Assets/LocalizeProTool/Scripts/DeepL/DeepLValidationHelper.cs
+  uploadId: 747674

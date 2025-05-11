@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: f32fdab4568c460f9da589593223a1b3
+timeCreated: 1744075606
+AssetOrigin:
+  serializedVersion: 1
+  productId: 308854
+  packageName: LocalizePro
+  packageVersion: 1.2
+  assetPath: Assets/LocalizeProTool/Scripts/DeepL/DeepLTranslator.cs
+  uploadId: 747674

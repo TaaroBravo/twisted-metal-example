@@ -1,0 +1,18 @@
+Text IDs (TID)	Description
+language	English
+menu_title	Amazing Game
+menu_settings	Settings
+menu_exit	Exit
+menu_play	Play
+	
+dialogue_1-1	Hi!
+dialogue_1-2	How are you?
+dialogue_1-3	I'm Cody
+	
+dialogue_2-1	Hey there!
+dialogue_2-2	You already posted an review?
+	
+character1_dialogue	Talk to Cody
+character2_dialogue	Talk to Tina
+	
+welcome_example_text	Hi

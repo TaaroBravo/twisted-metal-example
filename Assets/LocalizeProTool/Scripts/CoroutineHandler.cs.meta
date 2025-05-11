@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 82e2f9a2a41b4a1e8ac11c5325c2092b
+timeCreated: 1737680069
+AssetOrigin:
+  serializedVersion: 1
+  productId: 308854
+  packageName: LocalizePro
+  packageVersion: 1.2
+  assetPath: Assets/LocalizeProTool/Scripts/CoroutineHandler.cs
+  uploadId: 747674

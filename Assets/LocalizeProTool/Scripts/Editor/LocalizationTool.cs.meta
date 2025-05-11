@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 6062890fe64f0e544982405c82e396b2
+AssetOrigin:
+  serializedVersion: 1
+  productId: 308854
+  packageName: LocalizePro
+  packageVersion: 1.2
+  assetPath: Assets/LocalizeProTool/Scripts/Editor/LocalizationTool.cs
+  uploadId: 747674

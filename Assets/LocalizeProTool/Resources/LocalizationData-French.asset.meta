@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6af401e9105425f4aae6484a00ee96d6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 308854
+  packageName: LocalizePro
+  packageVersion: 1.2
+  assetPath: Assets/LocalizeProTool/Resources/LocalizationData-French.asset
+  uploadId: 747674

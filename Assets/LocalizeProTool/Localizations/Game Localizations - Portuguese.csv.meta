@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2cd2d80f8982bf14a815f44a96b4eed4
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 308854
+  packageName: LocalizePro
+  packageVersion: 1.2
+  assetPath: Assets/LocalizeProTool/Localizations/Game Localizations - Portuguese.csv
+  uploadId: 747674
