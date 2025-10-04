@@ -1,5 +1,13 @@
 # Twisted Metal–Style Weapons (Unity)
 
+[![Unity](https://img.shields.io/badge/Unity-2021%2B-black?logo=unity&logoColor=white)](https://unity.com/)
+[![C#](https://img.shields.io/badge/C%23-7.0%2B-239120?logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![Design Pattern](https://img.shields.io/badge/Pattern-Strategy-blueviolet)](#)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Project Type](https://img.shields.io/badge/Type-Gameplay%20Prototype-blue)](#)
+[![Made With ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)](#)
+[![Last Commit](https://img.shields.io/github/last-commit/TaaroBravo/twisted-metal-example)](https://github.com/TaaroBravo/twisted-metal-example/commits/main)
+
 Small Unity prototype inspired by *Twisted Metal*.
 The focus is the **Weapon System** implemented with a **Strategy pattern** (polymorphism) so you can add new weapons without changing existing code.
 
