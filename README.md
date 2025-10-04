@@ -1,4 +1,4 @@
-# Twisted Metal–Style Weapons (Unity)
+# Unity Weapon Strategy System
 
 [![Unity](https://img.shields.io/badge/Unity-2021%2B-black?logo=unity&logoColor=white)](https://unity.com/)
 [![C#](https://img.shields.io/badge/C%23-7.0%2B-239120?logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
